@@ -1,0 +1,7 @@
+﻿streamlit
+geopandas
+pandas
+shapely
+folium
+streamlit-folium
+pydeck
