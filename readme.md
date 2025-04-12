@@ -35,7 +35,8 @@ streamlit run app.py
 
 ## 🖼️ Screenshot
 
-![GeoTrak Demo](screenshots/demo.png)
+![{00E2BC35-4326-45D1-8387-C44893D762F7}](https://github.com/user-attachments/assets/4c5dd47b-6927-401d-bfdc-57341317cdc1)
+
 
 ## 📁 Folder Structure
 
